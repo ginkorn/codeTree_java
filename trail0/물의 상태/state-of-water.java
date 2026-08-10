@@ -9,7 +9,7 @@ public class Main{
         {
             System.out.println("ice");
         }
-        if(a > 100)
+        else if(a > 100)
         {
             System.out.println("vapor");
         }
