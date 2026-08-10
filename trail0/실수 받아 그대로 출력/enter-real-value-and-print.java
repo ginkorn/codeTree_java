@@ -1,0 +1,11 @@
+public class Main {
+    public static void main(String[] args) {
+        // Please write your code here.
+        public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        double a = sc.nextDouble();
+
+        System.out.printf("%.2f%n",a+2);
+    }
+    }
+}
