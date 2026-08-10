@@ -8,10 +8,12 @@ public class Main{
         if(a < 0)
         {
             System.out.println("ice");
+
         }
         else if(a > 100)
         {
             System.out.println("vapor");
+
         }
         else {
             System.out.println("water");
